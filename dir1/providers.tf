@@ -8,7 +8,7 @@ terraform {
 
     fivetran = {
       source  = "fivetran/fivetran"
-      version = "1.1.5"
+      version = "1.1.7"
     }
 
     mssql = {
