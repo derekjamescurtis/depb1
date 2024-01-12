@@ -2,6 +2,6 @@ version: 2
 
 updates:
   - package-ecosystem: "terraform"
-    directory: "/dir2"
+    directory: "/"
     schedule:
       interval: "daily"
